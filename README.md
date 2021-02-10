@@ -10,3 +10,5 @@ Excavator will become open sourced when it reaches 100 servers!
 
 
 [Excavator Website](http://physix.me)
+
+Contact me on discord for any questions: TrustedDemon#1028
